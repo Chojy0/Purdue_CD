@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# What is LoRa/LoRaWAN???
+# What is LoRa/LoRaWAN?
 
 ## 1. LoRa : wireless MODULATION used to create long-range communication link (End Device)
 
